@@ -6,3 +6,4 @@ Production environment configured
 User authentication enabled
 Experimental feature
 Change made directly on GitHub
+This change was made directly on GitHub
