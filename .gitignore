@@ -1,0 +1,13 @@
+# Ignore generated log files
+*.log
+/debug.log
+logs/*
+!logs/error.log
+server?.log
+!error.log
+**/logs/*.log
+backup[0-9].sql
+backup[!0-9].sql
+\#temporary.txt
+\!important.txt
+local-settings.txt
